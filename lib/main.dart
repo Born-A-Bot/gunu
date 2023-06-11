@@ -90,7 +90,7 @@ class MyHomePageState extends State<MyHomePage> {
                             padding: EdgeInsets.only(left: 40, right: 40, top: 0, bottom: 0),
                  child:  ElevatedButton.icon(
                       icon: Icon(Icons.play_arrow, size: 36.0,),
-                      label: Text('Play', style: TextStyle(color: Colors.white, fontSize: 20,
+                      label: Text('Start', style: TextStyle(color: Colors.white, fontSize: 20,
                       )),
                       style:  ButtonStyle(
                         
