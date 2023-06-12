@@ -1,16 +1,16 @@
 # gunu
 
-Gunu - Guess The Number Developer Demo Project.
+GUNU - Guess The Number Developer Demo Project.
 
 ## Getting Started
 
-More details to come. 
+The purpose of this mobile app is to demonstrate
+my softwrae engineer development skillset to include:
+- Software engineering design principles
+- Front-end (UI/UX) Design
+- API integration
+- Section 508 Compliance
+- Material Design Best Practices
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#GUNU App Gif
+![](https://github.com/Born-A-Bot/gunu/assets/images/gunu_animatedGif_06122023.gif)
