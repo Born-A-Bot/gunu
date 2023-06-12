@@ -2,17 +2,18 @@
 
 GUNU - Guess The Number Developer Demo Project.
 
-## Getting Started
+## GUNU PURPOSE
+The purpose of this demo game is to guess a random
+number auto generated using the built-in Dart random function.
+Users have 3 attempts to guess correctly before being
+shown the correct number. 
 
-The purpose of this mobile app is to demonstrate
-my softwrae engineer development skillset to include:
-- Software engineering design principles
-- Front-end (UI/UX) Design
-- API integration
-- Section 508 Compliance
-- Material Design Best Practices
+
+## GUNU 
 
 #GUNU App Gif
-![](https://github.com/Born-A-Bot/gunu/assets/images/gunu_animatedGif_06122023.gif)
+![](https://github.com/Born-A-Bot/gunu/blob/main/assets/images/gunu_animatedGif_06122023.gif)
+
+
 
   
