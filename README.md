@@ -13,4 +13,6 @@ my softwrae engineer development skillset to include:
 - Material Design Best Practices
 
 #GUNU App Gif
-![](https://github.com/Born-A-Bot/gunu/gunu/assets/images/gunu_animatedGif_06122023.gif)
+![](https://github.com/Born-A-Bot/gunu/assets/images/gunu_animatedGif_06122023.gif)
+
+  
