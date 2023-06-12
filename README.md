@@ -1,10 +1,10 @@
 # gunu
 
-A new Flutter project.
+Gunu - Guess The Number Developer Demo Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+More details to come. 
 
 A few resources to get you started if this is your first Flutter project:
 
